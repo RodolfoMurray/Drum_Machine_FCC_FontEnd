@@ -1,0 +1,14 @@
+.drum-pad {
+    background-color: darkgrey;
+    display: block;
+    margin: 10px;
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
